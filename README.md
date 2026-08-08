@@ -4,13 +4,13 @@
 
 <h3>你好，我是 Z-Teddy 👋</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-343A40?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embedded%20Linux-343A40?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCU%20%2F%20RTOS-343A40?style=flat-square" />
-  <img src="https://img.shields.io/badge/Edge%20AI-343A40?style=flat-square" />
+<p align="center">
+  <img height="28" src="https://img.shields.io/badge/Embedded%20Systems-343A40?style=flat-square" />
+  <img height="28" src="https://img.shields.io/badge/Embedded%20Linux-343A40?style=flat-square&logo=linux&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/MCU%20%2F%20RTOS-343A40?style=flat-square" />
+  <img height="28" src="https://img.shields.io/badge/Edge%20AI-343A40?style=flat-square" />
 </p>
-
+  
 <p>
   🌐 中文 &nbsp;·&nbsp; <a href="./README_EN.md">English</a>
 </p>
@@ -100,14 +100,9 @@
 
 ## 🔗 Connect with me
 
-<p>
-  <a href="mailto:mingqian_zhu@foxmail.com">
-    <img src="https://img.shields.io/badge/Foxmail-Email%20Me-12B7F5?style=for-the-badge" />
-  </a>
-  <a href="mailto:mingqian_zhu@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-Alternative-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-</p>
+欢迎交流技术、开源项目以及相关机会。
+
+📧 **Email:** `mingqian_zhu@foxmail.com` · `mingqian_zhu@outlook.com`
 
 ---
 
